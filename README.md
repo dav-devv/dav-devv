@@ -48,23 +48,3 @@
 <img src="https://raw.githubusercontent.com/dav-devv/dav-devv/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/dav-devv/dav-devv/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/dav-devv/dav-devv/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/dav-devv/dav-devv/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/dav-devv/dav-devv/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
